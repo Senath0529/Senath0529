@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my coding skills mostly in pyhton.
+- 🔭 I’m currently working on my coding skills mostly in python.
 - 🌱 I’m currently learning basics and libraries related to AI and related topics such as machine learning.
 - 👯 I’m looking to collaborate on the projects that I find interesting and fun.
 - 🤔 I appreciate any help or comment I recieve and consider them to improve myself to be better and better.
